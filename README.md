@@ -20,7 +20,6 @@ my API key, but if you would like to try it for yourself, clone it, make an acco
 ## Technologies and methods used:
 -JSON, Fetch
 -Await/Async, Try/Catch
--Modular Code
 -.gitignore
 -Web API's
 -Server Side API's 
