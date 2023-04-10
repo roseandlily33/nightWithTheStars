@@ -1,0 +1,5 @@
+.apiKey
+.extras.js
+node_modules
+.DS_Store
+thingsToDo.csv
